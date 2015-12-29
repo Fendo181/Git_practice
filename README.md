@@ -37,4 +37,7 @@ succeed!
 > もうGitは怖くない： 自信を持って使いたいあなたへ |檜山正幸のキマイラ飼育記 <br>
 > http://d.hatena.ne.jp/m-hiyama/20150928/1443397382
 
+>Windowsにgitをインストールしてgithubにpushするまで
+>http://www.karakaram.com/git-install
+
 
