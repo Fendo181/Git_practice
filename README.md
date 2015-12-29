@@ -34,15 +34,16 @@ succeed!
 > サルでもわかるGit入門  
 > http://www.backlog.jp/git-guide/
 
-> もうGitは怖くない： 自信を持って使いたいあなたへ |檜山正幸のキマイラ飼育記 
-> http://d.hatena.ne.jp/m-hiyama/20150928/1443397382
+> もうGitは怖くない： 自信を持って使いたいあなたへ |檜山正幸のキマイラ飼育記 <br>
+> http://d.hatena.ne.jp/m-hiyama/20150928/1443397382<br>
 
-> hardモード
-> Windowsにgitをインストールしてgithubにpushするまで
-> http://www.karakaram.com/git-install
+> hardモード<br>
+> Windowsにgitをインストールしてgithubにpushするまで<br>
+> http://www.karakaram.com/git-install<br>
 
-> easyモード
->Windows7にTortoiseGitをインストールしてGitHubにPushするまで
->http://utility.sakura.ne.jp/mw/technical_content_pages/git0001.html
+> easyモード<br>
+>Windows7にTortoiseGitをインストールしてGitHubにPushするまで<br>
+>http://utility.sakura.ne.jp/mw/technical_content_pages/git0001.html<br>
+
 
 
