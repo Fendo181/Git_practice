@@ -15,6 +15,7 @@ https://tortoisegit.org/download/<br>
 LanguageからJapaneseを選択して、1,2を終えてからインストールする。<br>
 
 4 環境構築できた
+```
 
 
 　 　 　 　　　　　　　 　 　　　　　　　　　　　　　　　　 ,.へ
@@ -34,4 +35,4 @@ LanguageからJapaneseを選択して、1,2を終えてからインストール�
 　　　　　| 答 |        完  全  勝  利        │|
 　　　　　＼＿二二二二二二二二二二二二二二二二ノ
 
-
+```
