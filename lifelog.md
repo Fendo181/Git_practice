@@ -10,4 +10,17 @@ IT業界には若き天才が去ったことで話題になったが、その日
 改めて両二方のご冥福を心から祈りたい。  
 アローン・スワーツの”もっと生産的になろう”は名文なので是非一読を進める。  
 
->生産的になろう http://emptypage.jp/translations/aaron/productivity.html>
+>生産的になろう | http://emptypage.jp/translations/aaron/productivity.html
+
+
+#1/2 10:18
+昨日はおせちやら酒を飲んだせいであまり体調が優れていないおはようございます。<br>
+さっき知ったんだが、ITエンジニアを今ではICTエンジニアというらしい。違いがよくわからない<br>
+Tが入っているから、IoTエンジニアの事だと思ってた。<br>
+この日記はGithubに直接あげているわけではなく、勉強用としてgitbashからコマンドを打って(正確にはTortoisegit)で上げる練習件、MarkDoen記法についても勉強している。
+<br>
+>README.mdファイル。マークダウン記法まとめ| http://codechord.com/2012/01/readme-markdown/
+<br>
+
+そういう訳で慣れてきたor飽きてきたらこのlifelogは更新が止まるだろう。<br>
+ついでに言うと二日目にしてもうだるい。あと、果てしなく就活がダルイと今感じている。
