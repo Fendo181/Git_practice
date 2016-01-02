@@ -23,4 +23,16 @@ Tが入っているから、IoTエンジニアの事だと思ってた。<br>
 <br>
 
 そういう訳で慣れてきたor飽きてきたらこのlifelogは更新が止まるだろう。<br>
-ついでに言うと二日目にしてもうだるい。あと、果てしなく就活がダルイと今感じている。
+ついでに言うと二日目にしてもうだるい。<br>
+<br>
+*今日の気になるニュース*
+>2015年は「オープンソース」の年と記憶される|http://wired.jp/2015/12/31/open-source-software-went-nuclear-this-year/
+>へぇ～
+>日テレ、第92回箱根駅伝の速報マップや記録速報を公開|http://www.ntv.co.jp/hakone/92/map/index.html
+>駅伝一回もちゃんと見たことないんですけどね#追　青山ブッチギリのTOPですね
+>あけま手帳、おめ手帳|http://www.1101.com/store/techo/2016/articles/ometecho/?utm_source=feedly&utm_medium=2016-1-2
+>皆ほぼ日手帳を使おう
+>性に対する価値観が分からない|http://anond.hatelabo.jp/20160102000837
+>その理屈でいくとまじで少子高齢化でおわりますと
+>Polygonが『Her Story』を2015年最優秀ゲームに選出 |http://www.choke-point.com/?p=19604
+>めっちゃ気になるしFallout4が5位とかありえん
