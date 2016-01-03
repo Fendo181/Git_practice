@@ -59,6 +59,7 @@ __今日やること__
 - PHP,PHPcake,wordpressでHP環境構築の準備
     - 余裕があったあらやりましょう。
         - 聞くによるとXAMPPは今MysqlではなくMariaDBになったらしい。
+		
 		>【XAMPP】2015年10月から導入手順がまた難解に！対応の方法！securityが無い！|http://hapisupu.com/2015/11/xampp-5-6-14-version-up-fix-no-security/
 		
 		__引用__  
