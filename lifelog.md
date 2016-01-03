@@ -74,7 +74,7 @@ __今日やること__
 *今日の気になるニュース*
 >プログラマの生き様|https://www.gitbook.com/book/masarakki/c89-the-way-of-programmer-life/details
 
-_(web界隈で生きくぬ)プログラマの生き様。_
+_(web界隈で生きくぬく)プログラマの生き様。_
 
 *今日の言いたい言葉*
 #"Dockerがどっか-ん"
