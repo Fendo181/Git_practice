@@ -96,4 +96,4 @@ _(web界隈で生きくぬく)プログラマの生き様。_
 ```
 
 _こんな事でGithubのContributionsが埋まるのが悲しい_
-
+test
