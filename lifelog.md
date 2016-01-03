@@ -97,5 +97,5 @@ _(web界隈で生きくぬく)プログラマの生き様。_
 
 _こんな事でGithubのContributionsが埋まるのが悲しい_
 
-#突然のジョーズ!!!!!#
+#突然のジョーズ!!!!#
 ![ジョーズ](https://github.com/Fendo181/Git_repos/blob/master/picture/1.jpg)
