@@ -153,4 +153,11 @@ ____
 _結果_  
 勉強しませんでした!
 
+#1/8(Fri)
+今日は新年会でした！！  
+今日頑張った事  
+>chocolatey 基本情報まとめ|http://qiita.com/NaoyaOura/items/1081884068fe3ea79570
+>windowsの開発環境は一瞬で整うwith chocolatey|http://qiita.com/okamos/items/11f4dc9a23afebbc242c
+
+__chocolatateyは偉大!__
 
