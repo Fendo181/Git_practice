@@ -168,6 +168,12 @@ __chocolatateyは偉大!__
 やっぱり画像処理って面白い。学べば学ぶほど、奥が深くシンプルでわかりやすい。  
 そういう訳で今後ともScilabでヒィヒィ言いながら学習したい。
 
-__今日おすすめの映画__
-![アナコンダ]()
+__今日おすすめの映画__  
+![アナコンダ](https://github.com/Fendo181/Git_repos/blob/master/picture/anakonda.jpeg)
+
+- Python Anaconda
+
+>https://www.continuum.io/
+
+pythonでアナコンダの意味を考えるのに2駅分かかった
 
