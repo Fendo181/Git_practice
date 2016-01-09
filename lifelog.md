@@ -156,8 +156,18 @@ _結果_
 #1/8(Fri)
 今日は新年会でした！！  
 今日頑張った事  
->chocolatey 基本情報まとめ|http://qiita.com/NaoyaOura/items/1081884068fe3ea79570
->windowsの開発環境は一瞬で整うwith chocolatey|http://qiita.com/okamos/items/11f4dc9a23afebbc242c
+- chocolatey基本情報まとめ|
+>http://qiita.com/NaoyaOura/items/1081884068fe3ea79570  
+- windowsの開発環境は一瞬で整うwith chocolatey
+>http://qiita.com/okamos/items/11f4dc9a23afebbc242c
 
 __chocolatateyは偉大!__
+
+#1/9(San)
+画像処理面白いって年末ぐらいに思った事がじわじわと来てたのが今日の勉強会で弾けた気がした。  
+やっぱり画像処理って面白い。学べば学ぶほど、奥が深くシンプルでわかりやすい。  
+そういう訳で今後ともScilabでヒィヒィ言いながら学習したい。
+
+__今日おすすめの映画__
+![アナコンダ]()
 
