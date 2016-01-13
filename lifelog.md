@@ -188,9 +188,14 @@ __今日やる事__
 今日から激動の一か月の始まりである！
 
 #1/13(thu)!
-|圧倒的アウトプット!| 圧倒的アウトプット！| 圧倒的アウトプット！|  
-|:                |                 |                  |  
-|圧倒的アウトプット！|  圧倒的インプット  |圧倒的アウトプット!  |  
+| Left align | Right align | Center align |
+|:-----------|------------:|:------------:|
+| This       |        This |     This     |
+| column     |      column |    column    |
+| will       |        will |     will     |
+| be         |          be |      be      |
+| left       |       right |    center    |
+| aligned    |     aligned |   aligned    |
 
 圧倒的努力が足りん
 
